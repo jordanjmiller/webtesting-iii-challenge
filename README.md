@@ -43,8 +43,6 @@ Follow these steps for completing your project.
 
 ## Minimum Viable Product
 
-After a set of interviews with the potential users of the solution, we gathered the following information about the desired functionality. Not all the information provided by our clients is relevant to the design of the solution, but it's included to help understand the requirements.
-
 Your job is to write unit tests to ensure that the application behaves as expected.
 
 The expected/assumed behavior of the application is listed below.
